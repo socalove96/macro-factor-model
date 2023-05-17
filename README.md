@@ -1,4 +1,4 @@
-# macro-factor-model
+# Macroeconomic Factor Model
 
 The provided code includes a factor model implemented in Python using the pandas, numpy, statsmodels, matplotlib, os, yfinance, and pandas_datareader libraries. The factor model aims to analyze stock returns and their relationship with macroeconomic factors. Here's a description of the factor model implemented in the code:
 
