@@ -1,3 +1,40 @@
+# Macro Factor Model Repository
+
+This repository, located at [https://github.com/socalove96/macro-factor-model.git](https://github.com/socalove96/macro-factor-model.git), contains the code and files for my Macro Factor Model project.
+
+## Description
+
+The Macro Factor Model project focuses on building a statistical model that captures the relationships between macroeconomic factors and asset returns. By analyzing various macroeconomic indicators, the model aims to provide insights into the factors that drive asset price movements and help inform investment decisions.
+
+## Features
+
+- **Macro Factor Model Implementation:** The repository includes the implementation of the macro factor model, which utilizes statistical techniques to estimate the impact of macroeconomic factors on asset returns.
+- **Data Processing:** It provides functions for processing and cleaning macroeconomic data, preparing it for analysis and model estimation.
+- **Factor Analysis:** The project includes tools for conducting factor analysis to identify and select the most relevant macroeconomic factors.
+- **Model Estimation and Evaluation:** It offers functions for estimating the model parameters and evaluating the performance and predictive power of the macro factor model.
+- **Visualization:** The repository includes visualizations of the macroeconomic data, factor loadings, and model output to facilitate interpretation and analysis.
+
+## Installation
+
+To set up and run this Macro Factor Model project locally, please follow these steps:
+
+1. Clone the repository using the following command:
+   ```
+   git clone https://github.com/socalove96/macro-factor-model.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd macro-factor-model
+   ```
+
+3. Install the required dependencies by running:
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. Run the main script or explore the Jupyter notebooks provided to understand and utilize the Macro Factor Model functionality.
+
 # Macroeconomic Factor Model
 
 The provided code includes a factor model implemented in Python using the pandas, numpy, statsmodels, matplotlib, os, yfinance, and pandas_datareader libraries. The factor model aims to analyze stock returns and their relationship with macroeconomic factors. Here's a description of the factor model implemented in the code:
@@ -27,3 +64,17 @@ This factor model analyzes the relationship between stock returns and macroecono
 **Model overfitting:** The code does not include a validation or testing phase for the factor model. It's important to evaluate the model's performance on out-of-sample data to assess its generalization ability. Overfitting, where the model performs well on the training data but poorly on new data, could be a concern.
 
 **Limited scope:** The code focuses on a specific factor model implementation and its application to a particular dataset. It does not cover other advanced techniques, alternative factor models, or considerations specific to different industries or investment strategies. The factors and code presented should be adapted and extended based on the specific requirements and context of the analysis.
+
+## Contributing
+
+Thank you for your interest in contributing to the Macro Factor Model project! If you have any suggestions, bug reports, or improvements, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated.
+
+## License
+
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `LICENSE` file for more details.
+
+## Contact
+
+If you have any questions or would like to reach out, please feel free to contact me via email at [alex.malek96@gmail.com](mailto:alex.malek96@gmail.com).
+
+Thank you for visiting the Macro Factor Model repository!
